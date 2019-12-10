@@ -5,6 +5,7 @@ from datetime import datetime
 
 __author__ = 'rgr'
 
+
 class Blog:
     def __init__(self, author, title, description, id=None):
         self.author = author
